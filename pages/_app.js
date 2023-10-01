@@ -8,7 +8,7 @@ function MyApp({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>Blog | Codegrain</title>
+        <title>Reliable EHS</title>
         <meta
           content="We strategically design beautiful brands, websites, and digital products that actually work."
           property="og:description"
